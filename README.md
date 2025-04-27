@@ -8,9 +8,9 @@ This is a simple program that create a Hello Word and add a plus that its transl
 
 # Development Environment
 
-iOS system
-Git / GitHub
-Python 3.12.2 
+* iOS system
+* Git / GitHub
+* Python 3.12.2 
 
 # Useful Websites
 
